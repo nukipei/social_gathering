@@ -1,6 +1,6 @@
 .venv
 *.ipynb
 *.lp
-poetry.lock
+uv.lock
 __pycache__/
 
